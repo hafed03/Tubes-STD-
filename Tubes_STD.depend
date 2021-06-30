@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1555479359 source:h:\struktur data\tubes\tubes_std\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1555841870 h:\struktur data\tubes\tubes_std\tubes.h
+	<iostream>
+	<cstdlib>
+
+1555478933 source:h:\struktur data\tubes\tubes_std\tubes.cpp
+	"Tubes.h"
+
+1556386233 source:h:\struktur data\tubes_kel16\tubes_std\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1556384852 h:\struktur data\tubes_kel16\tubes_std\tubes.h
+	<iostream>
+	<cstdlib>
+
+1556385959 source:h:\struktur data\tubes_kel16\tubes_std\tubes.cpp
+	"Tubes.h"
+
+1556846710 source:h:\struktur data\if-42-03_aplikasi_data_perguruan_tinggi\tubes_std\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1556857129 h:\struktur data\if-42-03_aplikasi_data_perguruan_tinggi\tubes_std\tubes.h
+	<iostream>
+	<cstdlib>
+
+1556858009 source:h:\struktur data\if-42-03_aplikasi_data_perguruan_tinggi\tubes_std\tubes.cpp
+	"Tubes.h"
+
